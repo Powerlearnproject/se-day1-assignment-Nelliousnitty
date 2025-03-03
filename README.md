@@ -10,7 +10,6 @@ Software engineering is the systematic application of engineering principles, me
 
 Software engineering plays a crucial role in the technology industry by enabling the creation of software applications and systems that power various aspects of modern life, including communication, commerce, entertainment, and healthcare.
 
-
 Identify and describe at least three key milestones in the evolution of software engineering.
 
 The Development of Programming Languages – The introduction of early programming languages like Fortran (1957) and C (1972) revolutionized software development by providing more efficient and structured ways to write code, making programming more accessible and scalable.
